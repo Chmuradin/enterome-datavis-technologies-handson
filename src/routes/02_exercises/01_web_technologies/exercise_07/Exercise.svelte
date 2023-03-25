@@ -1,4 +1,6 @@
+<script>
 const my_var = 12;
+</script>
 <body>
-My lucky number is my_var
+My lucky number is {my_var}
 </body>
