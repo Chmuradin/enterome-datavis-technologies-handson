@@ -14,3 +14,4 @@
 <button class="btn btn-secondary" on:click={() => (current = "neymar")}>
   Neymar
 </button>
+
