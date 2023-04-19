@@ -1,7 +1,7 @@
 <script>
     const width = 100;
     const height = 100;
-    const margin = { top: 5, right: 5, bottom: 5, left: 5 };
+    const margin = { top: 60, right: 0, bottom: 0, left: 60 };
     const innerWidth = width - margin.left - margin.right;
     const innerHeight = height - margin.top - margin.bottom;
   </script>
