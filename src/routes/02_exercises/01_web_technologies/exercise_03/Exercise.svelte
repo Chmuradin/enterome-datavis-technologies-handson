@@ -1,6 +1,6 @@
 "The best visual channels ordered by Mackinlay's ranking:"
-<ul>
+<ol>
   <li>Position</li>
   <li>Length</li>
   <li>Angle</li>
-</ul>
+</ol>
