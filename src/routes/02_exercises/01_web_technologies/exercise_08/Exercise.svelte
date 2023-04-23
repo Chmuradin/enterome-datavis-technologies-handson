@@ -1,7 +1,6 @@
 <script>
-const name = Michal;
-const things = [potatoes, tomatoes]
+    const student = {name: "Michal"};
+    const myList = ['potatoes', 'tomatoes'];
 </script>
-<body>
-My name is {name} and my favourite thins are {things}
-</body>
+
+My name is {student.name} and these are some of my favourite things: {myList}
